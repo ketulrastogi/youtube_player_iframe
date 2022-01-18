@@ -12,7 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_inappwebview: ^5.3.2
+  flutter_inappwebview: 
+    git:
+      url: https://github.com/ketulrastogi/flutter_inappwebview.git
   url_launcher: ^6.0.2
 
 dev_dependencies:
